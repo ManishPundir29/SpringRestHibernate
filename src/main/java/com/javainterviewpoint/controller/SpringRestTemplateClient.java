@@ -52,7 +52,7 @@ public class SpringRestTemplateClient
                 System.out.println("Id : id=" + map.get("id") + "   Name=" + map.get("name") + "   Age="
                         + map.get("age"));
             }
-        } else
+        } else    
         {
             System.out.println("No Students exist!!");
         }
